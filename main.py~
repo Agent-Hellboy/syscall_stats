@@ -1,0 +1,2 @@
+import subprocess
+subprocess.run(['./script.sh','strace','ls'])
