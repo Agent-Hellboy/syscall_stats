@@ -1,2 +1,5 @@
 import subprocess
-subprocess.run(['./script.sh','strace','ls'])
+lis=['/bin/bash','./script.sh','strace']
+cmd=str(input("enter the name of binary"))
+lis.append(cmd2)
+subprocess.run(lis)
