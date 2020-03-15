@@ -2,7 +2,7 @@
 -- used to get the stat of system call used by a binary in linux/unix  
 
 ## Prerequisites
-should be a unix machine to get the stat
+should be an unix machine to get the stat
 
 ## using 
 run until.py file and type the binary name 
